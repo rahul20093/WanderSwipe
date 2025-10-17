@@ -1,0 +1,14 @@
+{
+    "name": "wanderswipe/backend",
+    "description": "WanderSwipe backend",
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "cloudinary/cloudinary_php": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@email.com"
+        }
+    ]
+}
